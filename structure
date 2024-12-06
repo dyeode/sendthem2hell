@@ -1,0 +1,9 @@
+/structure
+├── index.html
+├── log.php
+├── /css
+│   └── styles.css
+├── /js
+│   ├── effects.js
+│   └── logger.js
+└── logs.txt
